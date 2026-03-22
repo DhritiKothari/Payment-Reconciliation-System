@@ -1,4 +1,4 @@
-# PayRec — Financial Transaction Reconciliation & Dispute Management System
+# Payment-Reconciliation-System — Financial Transaction Reconciliation & Dispute Management System
 ### Full-Stack Setup Guide
 
 ---
